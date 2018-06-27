@@ -4,6 +4,7 @@
   "description": "1. Fork the repository to your own Github account. 2. Clone your fork to your own machine. 3. Navigate to the clone on your machine and run `npm install`",
   "main": "index.js",
   "scripts": {
+    "heroku-postbuild": "sequelize db:migrate",
     "lint": "eslint --ignore-path .gitignore .",
     "jest": "jest",
     "test": "npm run lint && npm run jest",
@@ -26,6 +27,7 @@
     "sequelize": "^4.37.10",
     "sequelize-cli": "^4.0.0",
     "sqlite3": "^4.0.0"
+    
   },
   "devDependencies": {
     "eslint": "^4.19.1",
