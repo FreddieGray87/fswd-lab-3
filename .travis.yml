@@ -8,4 +8,4 @@ deploy:
     provide: heroku
     api_key:
         secure: "ZY1KDzXEeoZisxwqohlMduAV7hGlJpTUOoLHbh1z4pGd6X5xnQ9RwsvgPCKDPJujrGcuT++9OctYbicksGb3iPcerV0m2Qyo8tAuYZHybl65eWPKHSEfHXOZY4A7JurzcHWeItIWJerlr0WgN2A4ynGFBRA7K6bYUG6q7T3ceQi/uUWmlCXUOQ1Jt7RGUrZ0XwsXPb4Z5s1CRB/fxyXuAbSAw/eG5zBr6ysZyB+vW5184hKhDNhpD11jr5FRdZngsSt3tmlblb/KwniK+lDvEWBtboUx273j9uovOjl44lYz7cvKpkrCDIC0Fq9TcRAGJ0aSgYwTerRif+fdYgxphQG4UJuI3Bq9Gd+qGLvJLxCCl3bgD0xDBGFmduH9rDaH2JINSMm59/7/0qgByMDLLWMSfxoMr9bOvff9ubLVT3XaLgSTI+9CMMVTANJ6/FwlKlJP6uswWoRBvy10Ij0AFCdsLnuU8SHvMV+cjfTvbKHBhJV9umhW2snxci1jbq+xWjS0kQe/mj2L7qwVzxjwGkuPIb/qwmKYPwz23tA1vzhcx49JdknQSA0bNW3Il/T3mGHm3t8FlrGcOsrliNeEmUCiMZfQidjdGijz+J6gSGwD8v4urFoOpwRIvgz1U8YRkITrJ/9ZQnMk4b0SA3qpiAQSRqDn4wlx5zBLGgw8eJU="
-    app: agile-peak-45260.git
+    app: agile-peak-45260
