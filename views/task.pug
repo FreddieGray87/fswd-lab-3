@@ -7,3 +7,5 @@ block body
     if !task.isComplete()
         form(method="POST" action="/tasks/" + task.id + "/complete")
             button(type="submit") Complete!
+            else
+                 p #[b Completed:] #{task.completedAt}
