@@ -3,3 +3,9 @@ language: node_js
 cache:
   directories:
       - node_modules
+
+deploy:
+    provide: heroku
+    api_key:
+        secure: "d0396197-bb9c-4233-9492-35583b9a41aa"
+    app: agile-peak-45260
